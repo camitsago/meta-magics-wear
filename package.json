@@ -1,0 +1,29 @@
+{
+  "name": "meta-magics-wear",
+  "version": "1.0.0",
+  "description": "Meta Magics is a Node.js module providing a collection of meta-magical functions for various purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/camitsago/meta-magics-wear"
+  },
+  "dependencies": {
+    "mathjs": "^10.7.2",
+    "string-similarity": "^4.0.2",
+    "etheric-beacon-lose": "1.0.0",
+    "puytaupojahrjoy-random": "1.1.4",
+    "mackashley829-string-random": "1.1.4",
+    "cosmic-arcana-seal": "1.0.0",
+    "tax-date-time": "1.0.0",
+    "quantumquirks-bend": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camitsago/meta-magics-wear/issues"
+  },
+  "homepage": "https://github.com/camitsago/meta-magics-wear#readme"
+}
